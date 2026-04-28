@@ -24,6 +24,8 @@ The .exe can be run on Linux and macOS using [Wine](https://www.winehq.org/). On
 
 ## Tutorial
 
+The GUI does not have a resize function implemented. So if the window is too big, you will need to go into your settings and lessen the resolution scale.
+
 ### 1. Select a source and microphone position
 
 The floor plan of the church is shown in the centre of the window.
