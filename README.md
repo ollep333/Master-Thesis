@@ -82,4 +82,4 @@ The OUTPUT DEVICE selector in the Playback panel controls where the binaural aud
 
 The church floor plan displayed in the GUI is taken from:
 
-> Giampiccolo, R., Parrinelli, S., & Antonacci, F. (2025). *ChurchIR: A Dataset of Room Impulse Responses Measured in an Italian Baroque Church*. Proceedings of the 32nd European Signal Processing Conference (EUSIPCO 2025).
+> Riccardo Giampiccolo, Sofia Parrinelli, and Fabio Antonacci. *Churchir: A dataset of multichannel church impulse responses for spatial audio applications*. In Proceedings of the 33rd European Signal Processing Conference (EU-SIPCO), pages 161–165, Isola delle Femmine, Italy, September 2025. IEEE.
