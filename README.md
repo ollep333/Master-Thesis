@@ -2,7 +2,7 @@
 
 Here I store my [master's thesis](Thesis.pdf), [popular abstract](Popular_abstract.pdf), and a guide and download link for the GUI as mentioned in the thesis.
 
-# Binaural Convolver
+# Binaural Convolver GUI
 
 A real-time binaural audio convolver for the Saints Marcellino and Pietro church, Cremona, Italy. Load a room impulse response (RIR) for a specific source–microphone pair, then feed it either a local audio file or your system's live audio output to hear what the sound would be like from that seat in the church.
 
